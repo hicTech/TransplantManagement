@@ -15,6 +15,7 @@ Il significato delle etichette utilizzate è il seguente:
 - Non-Software: la segnalazione è inerente ad aspetti che non riguardano strettamente lo sviluppo del software (es: aspetti legali, documentazione, ecc..)
 
 I rilasci al momento previsti sono:
+- Urgente: contiene le segnalazioni urgenti, cioè che bloccano lo sviluppo o il testing di funzionalità inerenti il prossimo rilascio
 - Prossimo Rilascio: contiene le segnalazioni inerenti lo stato corrente del software (imminenti)
 - Rilascio BETA-version: contiene le segnalazioni inerenti il rilascio della versione BETA (testabile da figure esterne)
 - Rilascio versione 1.0: contiene le segnalazioni inerenti il rilascio della versione 1.0 (pubblicabile)
@@ -22,5 +23,5 @@ I rilasci al momento previsti sono:
 
 
 
-CLICCARE SUL TASTO "ISSUES" NELLA BARRA GRIGIA IN ALTO per accedere alle segnalazioni
+Cliccare sul tasto "ISSUES" nella barra grigia in alto per accedere alle segnalazioni
 ====================
