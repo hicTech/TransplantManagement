@@ -7,7 +7,7 @@ E' possibile creare delle segnalazioni, discuetere ordinatamente su ciascuna seg
 
 Il significato delle etichette utilizzate è il seguente:
 - Dati: la segnalazione riguarda le strutture dei dati (es: dati obbligatori e vincoli di validazione nei moduli di inserimento e modifica, flusso delle azioni eseguibili sulle varie entità, calcoli automatici, ecc..)
-- Grafica: la segnalazione contiene note di carattere grafico, e di presentazione delle informazioni (es: dati visualizzati, eventuali campi da nascondere o rendere espandibili, osservazioni sulla comodità e utilizzabilità dell'interfaccia, ecc..)
+- Interfaccia: la segnalazione contiene note di carattere grafico, e di presentazione delle informazioni (es: dati visualizzati, eventuali campi da nascondere o rendere espandibili, osservazioni sulla comodità e utilizzabilità dell'interfaccia, ecc..)
 - Malfunzionamento: la segnalazione riguarda comportamenti strani o imprevisti dell'applicazione
 - Miglioramento: la segnalazione contiene idee e suggerimenti per migliorare l'applicazione (es: nuove features, ecc.)
 - Funzionalità: la segnalazione riguarda una intera macro-funzione non ancora sviluppata (es: dati non gestiti, sezioni non presenti, ecc..)
