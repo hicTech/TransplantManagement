@@ -10,6 +10,7 @@ Il significato delle etichette utilizzate è il seguente:
 - Grafica: la segnalazione contiene note di carattere grafico, e di presentazione delle informazioni (es: dati visualizzati, eventuali campi da nascondere o rendere espandibili, osservazioni sulla comodità e utilizzabilità dell'interfaccia, ecc..)
 - Malfunzionamento: la segnalazione riguarda comportamenti strani o imprevisti dell'applicazione
 - Miglioramento: la segnalazione contiene idee e suggerimenti per migliorare l'applicazione (es: nuove features, ecc.)
+- Funzionalità: la segnalazione riguarda una intera macro-funzione non ancora sviluppata (es: dati non gestiti, sezioni non presenti, ecc..)
 - Domanda: la segnalazione contiene una domanda rivolta agli altri collaboratori
 - Non-Software: la segnalazione è inerente ad aspetti che non riguardano strettamente lo sviluppo del software (es: aspetti legali, documentazione, ecc..)
 
