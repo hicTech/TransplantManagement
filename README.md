@@ -18,8 +18,8 @@ I rilasci al momento previsti sono:
 - Rilascio BETA-version: contiene le segnalazioni inerenti il rilascio della versione BETA (testabile da figure esterne)
 - Rilascio versione 1.0: contiene le segnalazioni inerenti il rilascio della versione 1.0 (pubblicabile)
 - Rilasci futuri: contiene segnalazioni, discussioni e idee su caratteristiche aggiuntive del software, non imminenti, da inserire in rilasci futuri del software
-- 
-- 
+
+
 
 CLICCARE SUL TASTO "ISSUES" NELLA BARRA GRIGIA IN ALTO per accedere alle segnalazioni
 ====================
